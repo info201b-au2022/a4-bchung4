@@ -1,6 +1,6 @@
 ---
-title: "Your A4 Report Title (TODO: Revise title)"
-author: "Your Name"
+title: "Incarceration Analysis"
+author: "Busung Chung"
 date: '2022-11-01'
 output: html_document
 ---
@@ -11,7 +11,7 @@ source("../source/analysis.R")
 ```
 
 ## Abstract 
-[TODO: Include a short abstract (about 50 words)]
+The incarceration rates have been rising as significantly as time passed by. The changes in law and policies introduced to the public has a direct implication to confinement in jail. Gender and racial backgrounds have a crucial in identifying the problem to the system. 
 
 # Test (TODO: Remove before submission!!)
 ```{r echo=FALSE}
@@ -34,7 +34,7 @@ print(sum)
 ```
 
 ## Introduction 
-[TODO]
+Incarceration rates have increased over the years leading to a high volume of individuals going in and out of prison frequently. This might be due to modifications of regulations that directly influence whether a individual is going to jail or not. Through the dataset provided by VERA, I was able to accumulate different graphs for further analysis. 
 
 ## Data Summary 
 [TODO]
